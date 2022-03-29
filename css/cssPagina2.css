@@ -1,0 +1,21 @@
+body{
+    background-color:#c2c501;
+}
+h1{
+    text-align: center;
+}
+a.nav_index{
+    display: block;
+    text-align: center;
+}
+.contenedor{
+    text-align: center;
+    border: 1px solid #060820;
+    padding: 10px;
+}
+.etiquetas_texto{
+    display: block;
+}
+.css_forms{
+    margin-bottom: 10px;
+}
